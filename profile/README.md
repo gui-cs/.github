@@ -1,4 +1,4 @@
-## Enalbing modern, cross-platform, terminal UIs using .NET and Swift since 2007.
+## Enabling modern, cross-platform, terminal UIs using .NET and Swift since 2007.
 
 The gui.cs Github Organization holds the projects derived from [gui.cs](http://tirania.org/blog/archive/2007/Apr-16.html) that Miguel wrote for [mono-curses](https://github.com/mono/mono-curses) in 2007.
 
