@@ -6,7 +6,7 @@ The original **gui.cs** was a single file and tied to the [curses library](https
 
 A presentation of gui.cs was part of the [Retro.NET](https://channel9.msdn.com/Events/dotnetConf/2018/S313) talk at .NET Conf 2018 [Slides](https://tirania.org/Retro.pdf)
 
-![dMpzaSi 1](https://user-images.githubusercontent.com/585482/182990853-4d35a8f5-2fd6-4385-b251-c0791f42894a.gif)
+![e1SzFpp 1](https://user-images.githubusercontent.com/585482/182992052-fbe8bc44-eb23-4b89-897d-96ce926677a8.gif)
 
 The other projects in this organization are either dependencies of Terminal.Gui or related offshoots.
 
