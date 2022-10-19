@@ -11,3 +11,5 @@ A presentation of gui.cs was part of the [Retro.NET](https://channel9.msdn.com/E
 The other projects in this organization are either dependencies of Terminal.Gui or related offshoots.
 
 The maintainers welcome contributions from the community.
+
+![Metrics](/github-metrics.svg)
