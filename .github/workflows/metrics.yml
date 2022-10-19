@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: tig
+          user: gui-cs
           template: classic
           config_gemoji: yes # use additional non-unicode emoji
           config_timezone: America/Denver
